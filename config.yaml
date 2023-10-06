@@ -1,5 +1,5 @@
 global:
-  project_path: /home/ravi.naik/learning/era/s17/s17lit
+  project_path: /home/guna.koppula/learning/era/s17/s17lit
   data_path: ${global.project_path}/data
 bert:
   data: ${global.data_path}/bert
