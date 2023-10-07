@@ -7,8 +7,7 @@
 
 ### BERT
 **Architecture:**
-
-![image](https://github.com/GunaKoppula/ERAV1-Session-17/assets/61241928/bfd572f6-9c18-42ab-b30f-283dd4c46f65)
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/7bdad8c3-ba7e-497a-b735-8f2ce7638701)
 
 #### Model Summary:
 ```python
@@ -68,12 +67,13 @@
 47.465    Total estimated model params size (MB)
 ```
 **Training Logs**:
-![image](https://github.com/GunaKoppula/ERAV1-Session-17/assets/61241928/27f6895e-1de7-431b-aa8f-ffa50fd159d5)
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/e9b85c19-389f-4e02-affc-e722000dcf13)
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/3311ba90-fddf-4694-9084-ea07d7488e4a)
+
 
 ### GPT
 **Architecture**:
-
-![image](https://github.com/GunaKoppula/ERAV1-Session-17/assets/61241928/f1e5e0ed-b7ed-4576-b8e9-5e4313bbe274)
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/cff53789-5937-4dee-9536-92d3adf30213)
 
 
 #### Model Summary:
@@ -124,11 +124,12 @@
 357.758   Total estimated model params size (MB)
 ```
 **Training Logs**:
-![image](https://github.com/GunaKoppula/ERAV1-Session-17/assets/61241928/35978b31-456a-43cd-adde-a39a288efb8c)
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/e03b464d-2a96-493e-ad52-776560105aa4)
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/ede0b3c7-b71d-4221-aba8-d9899fb4ec19)
 
 ### ViT
 **Architecture:**
-![image](https://github.com/GunaKoppula/ERAV1-Session-17/assets/61241928/3a51f2e6-c9dd-4f0b-8d98-8ee16a0ba608)
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/70a22928-91a7-4b4c-b230-268621e2bfe8)
 
 #### Model Summary:
 ```python
@@ -178,6 +179,11 @@
 43.1 M    Total params
 172.484   Total estimated model params size (MB)
 ```
+**Sample Data:**
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/645f3a6c-fcf9-4e67-906e-4e294839eca0)
+
+**Patchified Image:**
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/c9ad1d32-8dde-4543-a075-39e66d5cf57a)
 
 **Training Logs**:
-
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/748d2640-171d-46da-b7d1-7b17d4e6c67f)
